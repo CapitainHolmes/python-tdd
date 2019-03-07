@@ -1,12 +1,3 @@
-"""
-Solution to the challenge in the `Test Before` unit found in the `Test Driven
-Development with Python lesson`
-NOTE: The solution found in this file is one of the many potential solutions
-that can be used to achieve the end result expected by the challenge in the
-lesson.
-"""
-
-
 def even_number_of_evens(numbers):
     """
     Returns the number of even numbers contained in a list of numbers.
